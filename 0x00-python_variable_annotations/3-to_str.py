@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""  """
+""" Doc """
 
 
 def to_str(n: float) -> str:
